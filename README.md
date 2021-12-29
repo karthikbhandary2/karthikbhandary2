@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikbhandary2
 - 👀 I’m interested in ML, AI and data science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on anything related to data science
+- 💞️ I’m looking to collaborate on anything related to data science and ML
 - 📫 How to reach me karthikbhandary2@gmail.com
 - 🔗 My LinkedIn: linkedin.com/in/karthik-bhandary-51b134229
 - 💬 My Medium: https://karthikbhandary2.medium.com
