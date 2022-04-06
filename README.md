@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything related to data science and ML
 - 📫 How to reach me karthikbhandary2@gmail.com
-- 🔗 My LinkedIn: linkedin.com/in/karthik-bhandary-51b134229
+- 🔗 My LinkedIn: https://www.linkedin.com/in/karthikbhandary2/
 - 💬 My Medium: https://karthikbhandary2.medium.com
 - 💻 My YouTube: https://www.youtube.com/channel/UCKplT0-YqAQdCq6Xajcq5Tw
 - 📖 My Kaggle: https://www.kaggle.com/karthikbhandary2
