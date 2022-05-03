@@ -5,7 +5,7 @@
 - 📫 How to reach me karthikbhandary2@gmail.com
 - 🔗 My LinkedIn: https://www.linkedin.com/in/karthikbhandary2/
 - 💬 My Medium: https://karthikbhandary2.medium.com
-- 💻 My YouTube: https://www.youtube.com/channel/UCKplT0-YqAQdCq6Xajcq5Tw
+- 💻 My YouTube: www.youtube.com/c/KarthikBhandary/
 - 📖 My Kaggle: https://www.kaggle.com/karthikbhandary2
 <!---
 karthikbhandary2/karthikbhandary2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
