@@ -1,8 +1,8 @@
 # 💫About Me :
 👋 Hi, I’m @karthikbhandary2\
-👀 I’m interested in ML, AI, and data science\
-🌱 I’m currently learning Azure\
-💞️ I’m looking to collaborate on anything related to data science and ML
+👀 I'm a Software Engineer\
+🌱 I’m currently Working with AWS
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikbhandary2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karthikbhandary2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/KarthikBhandary) [![Instagram](https://img.shields.io/badge/Instagram-ff69b4.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karthikbhandary2/) [![Datacamp](https://img.shields.io/badge/Datacamp-4AEA0A.svg?logo=Datacamp&logoColor=white)](https://app.datacamp.com/profile/karthikbhandary2) [![a cloud guru](https://img.shields.io/badge/ACloudGuru-0A36EA.svg?logo=acloudguru&logoColor=white)](https://learn.acloud.guru/profile/karthik-bhandary)
