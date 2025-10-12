@@ -3,7 +3,7 @@
 🚀 Cloud & DevOps Engineer with 2+ years of org-level experience  
 ☁️ Skilled in AWS, Infrastructure as Code, CI/CD, and Observability  
 ⚡ Passionate about automation, cost optimization, and scaling reliable infra  
-📍 Currently working on cloud-native platforms, SSO, and DevOps automation  
+📍 Currently working on cloud-native platforms, Go, and DevOps automation  
 
 ---
 
