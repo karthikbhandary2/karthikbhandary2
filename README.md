@@ -16,6 +16,7 @@
 ---
 
 # 💻 Tech Stack
+
 **Cloud & Infra:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
@@ -32,7 +33,9 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Monitoring:**   
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white) 
@@ -42,8 +45,8 @@
 ---
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=karthikbhandary2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=karthikbhandary2&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=karthikbhandary2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://streak-stats.demolab.com?user=karthikbhandary2&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbhandary2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
